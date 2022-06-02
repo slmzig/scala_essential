@@ -1,6 +1,6 @@
 package lectures.basics
 
-object ValuesVariablesTypes extends App {
+object Variables extends App {
   println("start ValuesVariablesTypes")
 
 

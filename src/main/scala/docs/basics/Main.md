@@ -1,4 +1,4 @@
 basics
 
-- [variales](Variables.md)
+- [variables](Variables.md)
 - [types](Types.md)

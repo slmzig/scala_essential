@@ -1,4 +1,4 @@
 basics
 
 - [variales](Variables.md)
-- [types](other_file.md)
+- [types](Types.md)

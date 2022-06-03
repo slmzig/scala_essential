@@ -1,7 +1,3 @@
-VARIABLES
-
-[examples](../../lectures/basics/Variables.scala)
-
 Expression 
 - short: should return a value
 - long: is a combination of values and functions that are combined and interpreted by the compiler to create a new value

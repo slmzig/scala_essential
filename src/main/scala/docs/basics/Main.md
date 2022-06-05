@@ -4,3 +4,5 @@ basics
 - [types](Types.md)
 - [side-effects](SideEffects.md)
 - [expressions](Expressions.md)
+
+- [exercises](Exercises.md)

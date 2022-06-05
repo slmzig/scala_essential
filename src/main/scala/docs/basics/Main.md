@@ -5,4 +5,4 @@ basics
 - [side-effects](SideEffects.md)
 - [expressions](Expressions.md)
 
-- [exercises](Exercises.md)
+- [exercises](exercises/Exercises.md)

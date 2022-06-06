@@ -39,4 +39,4 @@ object CallByValueCallByName extends App {
 
 ```
 
-[implementation](../../exercises/basic/CallByValueCallByName.scala)
+[implementation](../../lectures/basics/CallByValueCallByName.scala)

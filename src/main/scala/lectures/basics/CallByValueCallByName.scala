@@ -1,14 +1,14 @@
-package exercises.basic
+package lectures.basics
 
 object CallByValueCallByName extends App {
 
-  def callByValue(param:Long):Unit = {
+  def callByValue(param: Long): Unit = {
     println(param)
     Thread.sleep(50)
     println(param)
   }
 
-  def callByName(param: =>Long):Unit = {
+  def callByName(param: => Long): Unit = {
     println(param)
     Thread.sleep(50)
     println(param)

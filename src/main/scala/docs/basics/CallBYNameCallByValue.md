@@ -1,4 +1,4 @@
-call by name
+call by value
 - function arguments are considered call by-value by default in Scala
 - all argument are evaluating when pathing to function
 - each argument evaluate only once
@@ -7,10 +7,11 @@ call by name
 def test(a: Int) = a * a
 ```
 
-call by value
+call by name
 - To make an argument called by-name, we simply prepend => (rocket symbol) to its type
 - argument evaluates only inside function
-- argument evaluates 
+- argument evaluates
+- tricks with it and usage
 
 ```scala
 def test(a: => Int) = a * a

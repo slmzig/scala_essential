@@ -26,3 +26,20 @@ class Person
 ```
 
 ##### constructor of class
+- we can add arguments to class constructor
+```scala
+class Person(name:String, age:Int)
+```
+- we can not use it until we prepend val or val before argument
+```scala
+class Person(name:String, age:Int)
+
+val person = new Person("name", 20)
+person.name // will not compile
+```
+```scala
+class Person(val name:String, age:Int)
+
+val person = new Person("name", 20)
+person.name // will compile
+```

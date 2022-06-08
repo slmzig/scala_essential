@@ -3,8 +3,12 @@ Class
 - [creating instance of class](#creating-instance-of-class)
 - [constructor of class](#constructor-of-class)
 - auxiliary constructor
+- class params
 - class fields
+- params vs fields
+- methods notations
 - class methods
+- overloading methods
 - extending class
 - abstract classes
 - implicit classes
@@ -30,13 +34,22 @@ class Person
 ```scala
 class Person(name:String, age:Int)
 ```
-- we can not use it until we prepend val or val before argument
+- you can use class arguments inside class
+```scala
+  class Writer(firstName: String, surname: String, year: String) {
+    def fullName:String = {
+      s"$firstName $surname"
+    }
+  }
+```
+- but you can not call it from instance
 ```scala
 class Person(name:String, age:Int)
 
 val person = new Person("name", 20)
 person.name // will not compile
 ```
+- you can use it from class instance after your prepend val or val before argument
 ```scala
 class Person(val name:String, age:Int)
 

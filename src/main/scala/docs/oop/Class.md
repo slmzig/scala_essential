@@ -14,6 +14,8 @@ Class
 - implicit classes
 - anonymous classes
 - class vs trait
+- final keyword
+- seal keyword
 
 ##### defining a class
 - class is a blueprint for class instances
@@ -56,3 +58,31 @@ class Person(val name:String, age:Int)
 val person = new Person("name", 20)
 person.name // will compile
 ```
+
+- `final` declares that a member may not be overridden in subclasses
+```scala
+//legal
+class A {
+    val a = 1
+}
+
+class B extends A {
+    override val a = 2
+}
+
+//Illegal:
+
+class A {
+    final val a = 1
+}
+
+class B extends A {
+    override val a = 2
+}
+
+```
+- `sealed` keyword Declaring a class or trait as sealed restricts where we can define its subclasses — we have to define them in the same source file.
+  - Using sealed classes, we can guarantee that only subclasses defined in the file exist
+  - This helps the compiler know all the subclasses of the sealed class
+  - Therefore, this behavior is useful in scenarios like pattern matching
+  - The compiler can emit warnings in case the match cases are not exhaustive, to prevent a MatchError exception

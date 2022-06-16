@@ -11,6 +11,8 @@ BASICS
 OOP
 - [classes](docs/oop/Class.md)
 - [method notation](docs/oop/Notations.md)
+- [singleton objects](docs/oop/Objects.md)
+- [inheritance](docs/oop/Inheritance.md)
 
 COMMON
 - what is syntaxis sugar

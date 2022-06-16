@@ -13,6 +13,7 @@ OOP
 - [method notation](docs/oop/Notations.md)
 - [singleton objects](docs/oop/Objects.md)
 - [inheritance](docs/oop/Inheritance.md)
+- [abstract classes and traits](docs/oop/AbstractClassesAndTraits.md)
 
 COMMON
 - what is syntaxis sugar

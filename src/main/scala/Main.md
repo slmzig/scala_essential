@@ -18,6 +18,8 @@ OOP
 COMMON
 - what is syntaxis sugar
 - what is side effects
+- what is predicat
+  - function that say whether condition is true or false
 
 EXERCISES
 - [exercises](docs/basics/exercises/Exercises.md)

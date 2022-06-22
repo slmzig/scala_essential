@@ -14,6 +14,7 @@ OOP
 - [singleton objects](docs/oop/Objects.md)
 - [inheritance](docs/oop/Inheritance.md)
 - [abstract classes and traits](docs/oop/AbstractClassesAndTraits.md)
+- [anonymous classes](docs/oop/AnonymousClasses.md)
 
 COMMON
 - what is syntaxis sugar

@@ -15,6 +15,7 @@ OOP
 - [inheritance](docs/oop/Inheritance.md)
 - [abstract classes and traits](docs/oop/AbstractClassesAndTraits.md)
 - [anonymous classes](docs/oop/AnonymousClasses.md)
+- [generics](docs/oop/Generics.md)
 
 COMMON
 - what is syntaxis sugar

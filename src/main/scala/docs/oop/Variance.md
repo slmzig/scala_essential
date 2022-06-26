@@ -21,6 +21,22 @@ variance question?
   class Dog extends Animal
   class Cat extends Animal
   class MyList[+T]
+
+  val animal = new Cat()
+  val animalList:MyList[Animal] = new MyList[Cat]
+  // if animalList.add(new Dog()) ??? question - can we add this?  
+  // we can solve it by making list more general - list of animals instead of list of cats
+
+  class MyList[+T] {
+    def add[B>:T](element:B):MyList[B]
+
+    /**
+     * T - list of cats
+     * B - is a dog = animal
+     * so we make list of cats a list of animals instead
+     * by adding a supertype of B
+     */
+  }
 ```
 - yes  => generic type is COVARIANT
 ```scala

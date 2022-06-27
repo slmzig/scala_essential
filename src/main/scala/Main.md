@@ -17,6 +17,7 @@ OOP
 - [anonymous classes](docs/oop/AnonymousClasses.md)
 - [generics](docs/oop/Generics.md)
 - [variance](docs/oop/Variance.md)
+- [case classes](docs/oop/CaseClasses.md)
 
 COMMON
 - what is syntaxis sugar

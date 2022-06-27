@@ -18,6 +18,7 @@ OOP
 - [generics](docs/oop/Generics.md)
 - [variance](docs/oop/Variance.md)
 - [case classes](docs/oop/CaseClasses.md)
+- [enumerations](docs/oop/Enumeration.md)
 
 COMMON
 - what is syntaxis sugar

@@ -20,6 +20,9 @@ OOP
 - [case classes](docs/oop/CaseClasses.md)
 - [enumerations](docs/oop/Enumeration.md)
 
+FUCNTIONS:
+- [what is function in scala](docs/fp/Functions.md)
+
 COMMON
 - what is syntaxis sugar
 - what is side effects

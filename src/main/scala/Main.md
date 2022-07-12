@@ -22,6 +22,7 @@ OOP
 
 FUCNTIONS:
 - [what is function in scala](docs/fp/Functions.md)
+- [anonymous function](docs/fp/AnonymousFunction.md)
 
 COMMON
 - what is syntaxis sugar

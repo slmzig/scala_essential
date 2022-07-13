@@ -32,3 +32,6 @@ COMMON
 
 EXERCISES
 - [exercises](docs/basics/exercises/Exercises.md)
+
+MATH
+- recursive function in math https://www.youtube.com/watch?v=Kjli0Gunkds

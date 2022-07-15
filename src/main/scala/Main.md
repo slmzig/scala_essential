@@ -23,6 +23,9 @@ OOP
 FUCNTIONS:
 - [what is function in scala](docs/fp/Functions.md)
 - [anonymous function](docs/fp/AnonymousFunction.md)
+- [higher order functions](docs/fp/HigherOrderFunction.md)
+- [curried functions](docs/fp/CurriedFunctions.md)
+- 
 
 COMMON
 - what is syntaxis sugar

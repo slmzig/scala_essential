@@ -6,6 +6,7 @@ BASICS
 - [expressions](docs/basics/Expressions.md)
 - [recursion](docs/basics/Recursion.md)
 - [functions](docs/basics/Functions.md)
+- sorting https://www.freecodecamp.org/news/sorting-algorithms-explained-with-examples-in-python-java-and-c/
 </br>
 
 OOP
@@ -25,6 +26,7 @@ FUCNTIONS:
 - [anonymous function](docs/fp/AnonymousFunction.md)
 - [higher order functions](docs/fp/HigherOrderFunction.md)
 - [curried functions](docs/fp/CurriedFunctions.md)
+- [for comprehentions](docs/fp/ForComprehentions.md)
 - 
 
 COMMON

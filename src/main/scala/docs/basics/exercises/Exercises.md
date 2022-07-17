@@ -4,4 +4,5 @@ exercises:
 - [fibonacci](Fibonacci.md)
 - [prime number](IsPrime.md)
 - [create linked list](../../oop/exercises/MyList.md)
-- [create linked list generic](../../oop/exercises/MyListGeneric.md)
+- [create linked list generic](../../oop/exercises/MyListGeneric.md
+- [implement own option](../../../exercises/fp/Maybe.scala))

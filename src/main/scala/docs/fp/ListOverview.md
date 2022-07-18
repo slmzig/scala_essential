@@ -1,0 +1,20 @@
+list overview
+
+- traversable
+  - iterable
+    - set
+      - hashset
+      - sortedset
+    - seq
+      - indexedSeq
+        - vector
+        - range
+        - string
+      - linearSeq
+        - list
+        - stream
+        - stack
+        - queue
+    - map
+      - hashmap
+      - sortedmap

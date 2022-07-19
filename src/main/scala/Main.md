@@ -28,7 +28,7 @@ FUCNTIONS:
 - [curried functions](docs/fp/CurriedFunctions.md)
 - [for comprehentions](docs/fp/ForComprehentions.md)
 - [list overview](docs/fp/ListOverview.md)
-- 
+- [Options](docs/fp/Options.md)
 
 COMMON
 - what is syntaxis sugar

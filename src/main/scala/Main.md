@@ -29,6 +29,7 @@ FUCNTIONS:
 - [for comprehentions](docs/fp/ForComprehentions.md)
 - [list overview](docs/fp/ListOverview.md)
 - [Options](docs/fp/Options.md)
+- [Try](docs/fp/Try.md)
 
 COMMON
 - what is syntaxis sugar
